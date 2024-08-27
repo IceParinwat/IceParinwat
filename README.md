@@ -1,8 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kittipong Rupkam
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Parinwat Kiatthitipon
 ========================================================================================================================================
 
 * 🌍  I'm based in Thailand
-* ✉️  You can contact me at [icekittipong1122@gmail.com](mailto:icekittipong1122@gmail.com)
+* ✉️  You can contact me at [ammice1122@gmail.com](mailto:ammice1122@gmail.com)
 * 🧠  I'm learning React
 
 ### Skills
